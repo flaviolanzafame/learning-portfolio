@@ -1,4 +1,4 @@
-# 📚 Benvenutə nel mio Learning Portfolio
+# 📚 Benvenuto nel mio Learning Portfolio
 
 🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/gb-flag.svg" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/it-flag.svg" width="20" alt="IT"/> Italiano](README.it.md)
 
