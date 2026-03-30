@@ -15,6 +15,7 @@ It is organized mainly by language and used as a personal archive of code writte
 The repository is divided by language:
 
 - `c/` and `cpp/` → core programming concepts (often overlapping)
+- `python/` → general-purpose programming and exercises 
 - `arduino/` → embedded programming and hardware-related work
 - `web/` → HTML, CSS and basic web development
 
