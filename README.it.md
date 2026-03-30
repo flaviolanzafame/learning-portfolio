@@ -6,4 +6,4 @@
 
 Ciao! Questo repository raccoglie esercizi, progetti ed esperimenti dal mio percorso di apprendimento nella programmazione.  
 
-Qui puoi seguire i miei progressi in **C++**, **Arduino** e altri concetti di programmazione. I file sono organizzati per **argomento** e **data**, così da poter vedere facilmente come miglioro nel tempo.
+Qui puoi seguire i miei progressi in **C++**, **Arduino** e altri concetti di programmazione.
