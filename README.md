@@ -4,6 +4,6 @@
 
 ---
 
-Hi there! This repository is where I collect exercises, mini-projects, and experiments from my programming journey.  
+Hi there! This repository is where I collect exercises, projects, and experiments from my programming journey.  
 
 It tracks my progress in **C++**, **Arduino**, and other programming concepts. Files are organized by **topic** and **date** for easy navigation, to see how I improve over time.
