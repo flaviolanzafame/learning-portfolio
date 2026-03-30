@@ -2,8 +2,37 @@
 
 ---
 
-# 📚 Benvenuto nel mio Learning Portfolio
+# 📚 Learning Portfolio
 
-Ciao! Questo repository raccoglie esercizi, progetti ed esperimenti dal mio percorso di apprendimento nella programmazione.  
+Questa repository raccoglie esercizi, esperimenti e piccoli progetti sviluppati mentre studio programmazione.
 
-Qui puoi seguire i miei progressi in **C++**, **Arduino** e altri concetti di programmazione.
+È organizzata principalmente per linguaggio ed è pensata come archivio personale del codice scritto nel tempo.
+
+---
+
+## 🗂 Struttura
+
+La repository è divisa per linguaggio:
+
+- `c/` e `cpp/` → concetti fondamentali di programmazione (spesso sovrapposti)  
+- `arduino/` → programmazione embedded e progetti hardware  
+- `web/` → HTML, CSS e basi di sviluppo web  
+
+All’interno di ogni cartella:
+
+- `school/` → esercizi assegnati a scuola  
+- `personal/` → pratica autonoma, esperimenti o esercizi da libri  
+
+---
+
+## 📄 Licenza
+
+Distribuito sotto licenza [MIT](LICENSE).
+
+---
+
+> [!NOTE]
+> - C e C++ vengono spesso usati in modo intercambiabile per esercizi simili  
+> - La maggior parte dei contenuti è composta da esercizi, non da progetti completi  
+> - Lo stile del codice può variare in base al contesto e al periodo  
+> - La struttura della repository può cambiare nel tempo
