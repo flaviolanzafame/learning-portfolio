@@ -14,7 +14,8 @@ Questa repository raccoglie esercizi, esperimenti e piccoli progetti sviluppati 
 
 La repository è divisa per linguaggio:
 
-- `c/` e `cpp/` → concetti fondamentali di programmazione (spesso sovrapposti)  
+- `c/` e `cpp/` → concetti fondamentali di programmazione (spesso sovrapposti)
+- `python/` → programmazione generale e esercizi  
 - `arduino/` → programmazione embedded e progetti hardware  
 - `web/` → HTML, CSS e basi di sviluppo web  
 
