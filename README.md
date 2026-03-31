@@ -6,22 +6,6 @@ It is organized mainly by language and used as a personal archive of code writte
 
 ---
 
-## 🗂 Structure
-
-The repository is divided by language:
-
-- `c/` and `cpp/` → core programming concepts (often overlapping)
-- `python/` → general-purpose programming and exercises 
-- `arduino/` → embedded programming and hardware-related work
-- `web/` → HTML, CSS and basic web development
-
-Inside each language folder:
-
-- `school/` → exercises assigned by teachers  
-- `personal/` → self-directed practice, experiments, or exercises from books  
-
----
-
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
